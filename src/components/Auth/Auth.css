@@ -1,0 +1,54 @@
+.login {
+    min-height: 83vh;
+    background-image: url('../../images/beeFlying.jpg');
+    background-size: 100%;
+}
+
+#loginButton {
+    color: white;
+}
+
+span.profile {
+    color: white;
+}
+
+span.profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0 10px;
+    border: 1px solid white;
+}
+
+.container .card-header {
+    background-color: #FFEB88;
+    border: 1px;
+    border-color: black;
+}
+
+.container .card {
+    border-color: #FFEB88;
+    border-color: black;
+}
+
+button.btn {
+    background: #FFEB88;
+    border-color: black;
+    /* color: white; */
+}
+
+button.btn:hover {
+    background: #FFFACA;
+    /* color: white; */
+}
+
+/* Color Palette
+#7DB1D6 - lighter blue
+#D6A27D - lighter orange
+Pale Yellow
+#FFFACA - pale pale yellow
+rgba(255, 250, 202, 1) - pale pale yellow
+#FFEFA1 - warm pale yellow
+#FFEB88 - warm yellow*
+rgba(255, 235, 136, 1) - warm yellow*
+ */

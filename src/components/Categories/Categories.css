@@ -1,0 +1,14 @@
+.container .table {
+    font-size: large;
+    background-color: #FFEB88;
+    border-radius: 5px;
+    border-spacing: 1px;
+    vertical-align: middle;
+    width: 60%;
+    margin: auto !important;
+}
+
+.textBar.form-control {
+    width: 60%;
+    margin: auto;
+}
